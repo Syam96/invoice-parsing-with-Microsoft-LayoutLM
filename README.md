@@ -1,6 +1,3 @@
-# README.md
-// filepath: c:\Users\syamp\Work Folder\AI Workspace\Table detection\README.md
-
 # LayoutLMv2 for Invoice Parsing
 
 This repository demonstrates how to fine-tune [LayoutLMv2](https://github.com/microsoft/unilm/tree/master/layoutlm) for token classification tasks using the FUNSD dataset, with a focus on document understanding and invoice parsing. The code is based on a learning exercise conducted in 2021.
